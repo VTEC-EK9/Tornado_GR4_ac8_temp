@@ -13,7 +13,6 @@ Testing Tornado GR4 before nexus upload
 
 The ZIP bundles SkinSlotText 1.2 and the Tornado’s aircraft and paint labels. A fresh install needs no separate Skin Studio setup or manual label copy. [ACE8 Skin Studio by NotalieNNA](https://www.nexusmods.com/acecombat8wingsoftheve/mods/52)
 
-For a sortie check, use **Campaign → Free Mission → Pilot → Mission 13 → With Obtained Aircraft**. The clean-install retry reached flight with Tornado GR.4s for Rex and Baxter.
 
 SHA-256
 
