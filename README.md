@@ -11,7 +11,7 @@ Testing Tornado GR4 before nexus upload
 2. Download the [Tornado GR.4 1.0.2 ZIP](https://github.com/VTEC-EK9/Tornado_GR4_ac8_temp/releases/download/v1.0.2/Tornado-GR4-Add-On-1.0.2.zip). In the launcher, choose **Mods → Add a mod…** and select the ZIP.
 3. Check that `TornadoGR4_addon`, `TornadoGR4-us4ss`, and `SkinSlotText` are on. Choose **Play Modded** for offline single-player.
 
-The ZIP bundles SkinSlotText 1.2 and the Tornado’s aircraft and paint labels. A fresh install needs no separate Skin Studio setup or manual label copy. [ACE8 Skin Studio by NotalieNNA](https://www.nexusmods.com/acecombat8wingsoftheve/mods/52)
+SkinSlotText is by NotalieNNA. [ACE8 Skin Studio by NotalieNNA](https://www.nexusmods.com/acecombat8wingsoftheve/mods/52)
 
 
 SHA-256
