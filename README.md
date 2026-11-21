@@ -10,3 +10,13 @@ SHA-256
 ```text
 186c634262e07adbc97ae4ef753f574e4208049caeffc158e40d40b92be3b963
 ```
+
+## Screenshots
+
+| Formation over Rio Bajo | Taxi clearance |
+| :---: | :---: |
+| <img src="screenshots/gr4-rio-bajo.png" alt="Tornado GR.4 flying in formation above the Rio Bajo mountains" width="430"> | <img src="screenshots/gr4-taxi.png" alt="Joker Flight Tornado GR.4 on the apron with its landing gear down" width="430"> |
+
+| Cockpit in flight | Ready to sortie |
+| :---: | :---: |
+| <img src="screenshots/gr4-cockpit.png" alt="Tornado GR.4 cockpit and flight displays during Mission 13" width="430"> | <img src="screenshots/gr4-standby.png" alt="Tornado GR.4 on the Standby screen with 8AGM and GPB selected" width="430"> |
