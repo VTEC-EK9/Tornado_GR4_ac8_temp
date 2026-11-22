@@ -17,7 +17,7 @@ SkinSlotText is by NotalieNNA. [ACE8 Skin Studio by NotalieNNA](https://www.nexu
 SHA-256
 
 ```text
-4253787413d72aaa821100bb0a82d5fd3ea6b586f1eabd2c1b7c03df7232b9dc
+d4ee983753b94733ee71b0876dc902a4a696abe8cf4a4760b4af6a0cfe8e2016
 ```
 
 ## Changelog
