@@ -3,15 +3,15 @@ Testing Tornado GR4 before nexus upload
 
 ## Current test release
 
-[Tornado GR.4 Add-On 1.0.7](https://github.com/VTEC-EK9/Tornado_GR4_ac8_temp/releases/tag/v1.0.7) for ACE COMBAT 8: WINGS OF THEVE on Windows.
+[Tornado GR.4 Add-On 1.0.8](https://github.com/VTEC-EK9/Tornado_GR4_ac8_temp/releases/tag/v1.0.8) for ACE COMBAT 8: WINGS OF THEVE on Windows.
 
 ## Installation
 
 1. Open ACE8 Mod Launcher 2.1.3 and choose **Set up modding** if this is your first mod. The launcher installs UE4SS and War’s Mod Loader 1.3.1. [ACE8 Mod Launcher](https://www.nexusmods.com/acecombat8wingsoftheve/mods/64)
-2. Download the [Tornado GR.4 1.0.7 ZIP](https://github.com/VTEC-EK9/Tornado_GR4_ac8_temp/releases/download/v1.0.7/Tornado-GR4-Add-On-1.0.7.zip). In the launcher, choose **Mods → Add a mod…** and select the ZIP.
+2. Download the [Tornado GR.4 1.0.8 ZIP](https://github.com/VTEC-EK9/Tornado_GR4_ac8_temp/releases/download/v1.0.8/Tornado-GR4-Add-On-1.0.8.zip). In the launcher, choose **Mods → Add a mod…** and select the ZIP.
 3. Check that `TornadoGR4_addon`, `TornadoGR4-us4ss`, and `SkinSlotText` are on. Choose **Play Modded** for offline single-player.
 
-If you installed the separate GR.4 radar or nozzle development patches, disable or remove them before updating. This ZIP includes both fixes.
+If you installed the separate GR.4 radar, nozzle, or Joker tail development patches, disable or remove them before updating. This ZIP includes those updates.
 
 SkinSlotText is by NotalieNNA. [ACE8 Skin Studio by NotalieNNA](https://www.nexusmods.com/acecombat8wingsoftheve/mods/52)
 
@@ -19,10 +19,15 @@ SkinSlotText is by NotalieNNA. [ACE8 Skin Studio by NotalieNNA](https://www.nexu
 SHA-256
 
 ```text
-25b4f6715bcac620300593d2ecddc31d943776efb59d2ae506ea14e7a61ca4e3
+2431d49e9d7bffa4148442f86f071fcf0be2050405e73fa440acce2fbae7f546
 ```
 
 ## Changelog
+
+### 1.0.8
+
+- Fixed the all-Tornado sortie crash.
+- Updated Joker tail markings.
 
 ### 1.0.7
 
