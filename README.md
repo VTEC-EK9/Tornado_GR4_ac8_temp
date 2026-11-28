@@ -3,12 +3,12 @@ Testing Tornado GR4 before nexus upload
 
 ## Current test release
 
-[Tornado GR.4 Add-On 1.0.11](https://github.com/VTEC-EK9/Tornado_GR4_ac8_temp/releases/tag/v1.0.11) for ACE COMBAT 8: WINGS OF THEVE on Windows.
+[Tornado GR.4 Add-On 1.0.13](https://github.com/VTEC-EK9/Tornado_GR4_ac8_temp/releases/tag/v1.0.13) for ACE COMBAT 8: WINGS OF THEVE on Windows.
 
 ## Installation
 
 1. Open ACE8 Mod Launcher 2.1.3 and choose **Set up modding** if this is your first mod. The launcher installs UE4SS and War’s Mod Loader 1.3.1. [ACE8 Mod Launcher](https://www.nexusmods.com/acecombat8wingsoftheve/mods/64)
-2. Download the [Tornado GR.4 1.0.11 ZIP](https://github.com/VTEC-EK9/Tornado_GR4_ac8_temp/releases/download/v1.0.11/Tornado-GR4-Add-On-1.0.11.zip). In the launcher, choose **Mods → Add a mod…** and select the ZIP.
+2. Download the [Tornado GR.4 1.0.13 ZIP](https://github.com/VTEC-EK9/Tornado_GR4_ac8_temp/releases/download/v1.0.13/Tornado-GR4-Add-On-1.0.13.zip). In the launcher, choose **Mods → Add a mod…** and select the ZIP.
 3. Check that `TornadoGR4_addon`, `TornadoGR4-us4ss`, and `SkinSlotText` are on. Choose **Play Modded** for offline single-player.
 
 If updating from a previous release, close the game and remove the older Tornado entries in the launcher before adding this ZIP. One import installs the complete aircraft.
@@ -21,10 +21,19 @@ SkinSlotText is by NotalieNNA. [ACE8 Skin Studio by NotalieNNA](https://www.nexu
 SHA-256
 
 ```text
-90469a410d89cfa4e0335186f87377ba800dd3224c5de0c5f210c9abc3f0ba27
+362affbe407d16840f0f28e30524615da4cca7797c76d318bc01be270b533bb5
 ```
 
 ## Changelog
+
+### 1.0.13
+
+- fixed afterburner
+- fixed cockpit MFDs
+
+### 1.0.12
+
+- updated Joker and Little Bee tail art and fixed the metallic patch at the fin root
 
 ### 1.0.11
 
